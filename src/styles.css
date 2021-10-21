@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  display: block;
+  margin: 1rem auto;
+  width: 80%;
+  text-align: center;
+}
